@@ -36,7 +36,7 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-![Alt Text](<img width="1210" height="311" alt="image" src="https://github.com/user-attachments/assets/035bfa80-2049-4e90-be64-29adc16f1639" />
+(<img width="1210" height="311" alt="image" src="https://github.com/user-attachments/assets/035bfa80-2049-4e90-be64-29adc16f1639" />
 )
 
 #### <ins>**Iverilog**</ins>
@@ -44,7 +44,7 @@ $ sudo make install
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-![Alt Text](<img width="1218" height="322" alt="image" src="https://github.com/user-attachments/assets/2c422a91-42c6-49bf-b657-cce7f897584b" />
+(<img width="1218" height="322" alt="image" src="https://github.com/user-attachments/assets/2c422a91-42c6-49bf-b657-cce7f897584b" />
 )
 
 #### <ins>**gtkwave**</ins>
@@ -52,5 +52,5 @@ $ sudo apt-get install iverilog
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-![Alt Text](<img width="779" height="844" alt="Screenshot 2025-09-20 194353" src="https://github.com/user-attachments/assets/322e8650-9e22-4e2e-880c-eb85b98c9bf9" />
+(<img width="779" height="844" alt="Screenshot 2025-09-20 194353" src="https://github.com/user-attachments/assets/322e8650-9e22-4e2e-880c-eb85b98c9bf9" />
 )
